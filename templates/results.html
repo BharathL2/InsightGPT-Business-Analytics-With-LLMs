@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Results</title>
+</head>
+<body>
+    <h1>Analysis Results</h1>
+
+    {% if eda %}
+        <h2>Data Summary</h2>
+        {{ eda|safe }}
+        <h2>Plots</h2>
+        {% for plot in plots %}
+            <img src="/{{ plot }}" width="500">
+        {% endfor %}
+    {% endif %}
+
+    {% if summary %}
+        <h2>Summary</h2>
+        <p>{{ summary }}</p>
+    {% endif %}
+
+    {% if insights %}
+        <h2>Insights</h2>
+        <p>{{ insights }}</p>
+    {% endif %}
+</body>
+</html>
