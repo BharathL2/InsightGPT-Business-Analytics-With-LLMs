@@ -85,11 +85,6 @@ Upload a customer feedback transcript, and InsightGPT will return:
 
 MIT License
 
----
-
-## 🙋‍♂️ Author
-
-[LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/bharath-l-1bba20257/)) • [GitHub]([https://github.com/yourusername](https://github.com/BharathL2))
 
 ---
 
