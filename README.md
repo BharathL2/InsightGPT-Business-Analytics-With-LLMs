@@ -89,7 +89,7 @@ MIT License
 
 ## 🙋‍♂️ Author
 
-**Your Name** – [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/bharath-l-1bba20257/)) • [GitHub]([https://github.com/yourusername](https://github.com/BharathL2))
+[LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/bharath-l-1bba20257/)) • [GitHub]([https://github.com/yourusername](https://github.com/BharathL2))
 
 ---
 
