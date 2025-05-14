@@ -41,7 +41,7 @@ InsightGPT is an intelligent web application that blends **Data Science**, **AI/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/InsightGPT.git
+git clone https://github.com/BharathL2/InsightGPT.git
 cd InsightGPT
 ```
 
